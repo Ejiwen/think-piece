@@ -1,3 +1,4 @@
+[![Run on Repl.it](https://repl.it/badge/github/Ejiwen/think-piece)](https://repl.it/github/Ejiwen/think-piece)
 # Firebase && React
 
 ## Initial Set Up
